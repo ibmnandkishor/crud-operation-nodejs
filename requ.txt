@@ -1,0 +1,4 @@
+1. First of all unzip file 
+2. onpe command prompt and type  :--    npm install  express 
+
+3.Run server type this command :-   npm run start
